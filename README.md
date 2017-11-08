@@ -4,7 +4,7 @@ Turn [transitland-processing-animation](https://github.com/transitland/transitla
 
 A simple Matlab tool to audiolize transit data. It can code three different transit modalities such as subways, streetcars and buses into pitch, tempo, and volume to produce music from data. 
 
-Here's a demo: https://www.youtube.com/embed/QAK1Z8-vb6g
+Here's a demo: https://youtu.be/QAK1Z8-vb6g
 
 # How to use
 
