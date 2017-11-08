@@ -15,7 +15,7 @@ python transitflow.py --name=bart --operator=o-dpz8-ttc --date=2017-10-23
 4. Listen to output that is produced in ```output.wav``` within the folder ```vehicle_counts`` folder (or use the Octobre 23/2017 TTC vehicle counts that are already there)
 
 # Read more
-Read my blog-post on this work to [learn more]()
+Read my blog-post on this work to [learn more](https://rami-codes.github.io/2017/11/07/transitland-audiolizer/)
 
 # License
 Released under MIT License. Feel free to contribute or fork.
