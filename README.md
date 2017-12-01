@@ -12,7 +12,7 @@ Here's a demo: https://youtu.be/QAK1Z8-vb6g
 ```
 python transitflow.py --name=bart --operator=o-dpz8-ttc --date=2017-10-23
 ```
-2. Place three modalities of transit data (i.e. bus, subway, streetcar)  into the 
+2. Place the .csv files of the three modalities of transit data (i.e. bus, subway, streetcar) into the ```vehicle_counts``` folder
 3. run ```transitland_music.m```
 4. Listen to output that is produced in ```output.wav``` within the folder ```vehicle_counts`` folder (or use the Octobre 23/2017 TTC vehicle counts that are already there)
 
